@@ -1,7 +1,7 @@
 ## Thumbnails
 - **Design**: Use the provided Fondra color scheme. Make the background visually appealing with the provided textures. (optional)
 - **Text**: Keep it clear and concise, focusing on the main feature or benefit shown in the video. Use contrasting colors for visibility.
-- **Logo**: Ensure the Fondra logo is prominently displayed, maintaining brand recognition.
+- **Logo**: Ensure the Fondra logo is prominently displayed, maintaining brand recognition. [Image Here](https://github.com/Fondra-Hub/Branding/blob/main/Images/Icon.png)
 - **Images**: Include high-quality, relevant images from the game or script. (optional)
 
 Use "Youtube-Thumbnail.png" as an example.
